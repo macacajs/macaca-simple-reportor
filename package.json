@@ -1,7 +1,7 @@
 {
   "name": "macaca-simple-reportor",
-  "version": "0.1.0",
-  "description": "macaca-simple-reportor",
+  "version": "1.0.0",
+  "description": "macaca simple reportor",
   "keywords": [
     "macaca",
     "reportor"
@@ -30,6 +30,5 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/macacajs/macaca-simple-reportor",
   "license": "MIT"
 }
