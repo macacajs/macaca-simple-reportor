@@ -1,0 +1,35 @@
+{
+  "name": "macaca-simple-reportor",
+  "version": "0.1.0",
+  "description": "macaca-simple-reportor",
+  "keywords": [
+    "macaca",
+    "reportor"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/macacajs/macaca-simple-reportor.git"
+  },
+  "dependencies": {
+    "macaca-utils": "^0.1.9",
+    "mocha": "~2.4.5"
+  },
+  "devDependencies": {
+    "co-mocha": "*",
+    "istanbul": "*",
+    "jshint": "^2.9.3",
+    "mocha": "*",
+    "pre-commit": "1.1.1",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make test",
+    "jshint": "make jshint"
+  },
+  "pre-commit": [
+    "jshint"
+  ],
+  "homepage": "https://github.com/macacajs/macaca-simple-reportor",
+  "license": "MIT"
+}
