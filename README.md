@@ -18,7 +18,7 @@
 
 ## Installment
 
-```shell
+```bash
 $ npm i macaca-simple-reportor --save-dev
 ```
 
